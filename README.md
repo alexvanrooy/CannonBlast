@@ -16,7 +16,7 @@ Cannon Blast is a simple 3D game where the player takes control of a cannon and 
 - Sound Effects (i.e. When the cannon fires, when the cannon ball hits a target)
 
 ## Video Demonstration
-Click [here](demonstration/cannonblast_demo.mp4) to watch the video demonstration.
+Click [here](https://youtu.be/qrpkutSg-20) to watch the video demonstration.
 
 ## Screenshots
 
